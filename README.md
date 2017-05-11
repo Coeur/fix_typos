@@ -13,3 +13,4 @@ Want to have a pull request for your repo? Just add it to the list!
 - Alamofire/AlamofireImage
 - Alamofire/Alamofire
 - Alamofire/AlamofireNetworkActivityIndicator
+- tldr-pages/tldr
