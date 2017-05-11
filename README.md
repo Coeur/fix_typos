@@ -13,4 +13,20 @@ Want to have a pull request for your repo? Just add it to the list!
 - none
 
 # TODO
-- none
+- "Quick/Nimble"
+- "aschuch/StatefulViewController.git"
+- "ashleymills/Reachability.swift"
+- "johnsundell/unbox"
+- "johnsundell/wrap"
+- "tomquist/Equals"
+- "DaveWoodCom/XCGLogger"
+- "Moya/Moya"
+- "Swinject/Swinject"
+- "Swinject/Swinject-CodeGeneration"
+- "ReactiveX/RxSwift"
+- "RxSwiftCommunity/RxDataSources"
+- "RxSwiftCommunity/RxOptional"
+- "shinydevelopment/SimulatorStatusMagic"
+- "carloe/LicenseGenerator-iOS"
+- "PureLayout/PureLayout"
+- "mpinkston/Timberjack"
