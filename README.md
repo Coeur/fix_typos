@@ -13,10 +13,10 @@ Want to have a pull request for your repo? Just add it to the list!
 - Swinject/SwinjectStoryboard https://github.com/Swinject/SwinjectStoryboard/pull/53
 - Swinject/SwinjectPropertyLoader https://github.com/Swinject/SwinjectPropertyLoader/pull/13
 - Swinject/SwinjectAutoregistration https://github.com/Swinject/SwinjectAutoregistration/pull/23
-- carloe/LicenseGenerator-iOS https://github.com/carloe/LicenseGenerator-iOS/pull/12
 
 # PR merged
 - johnsundell/unbox https://github.com/JohnSundell/Unbox/pull/182
+- carloe/LicenseGenerator-iOS https://github.com/carloe/LicenseGenerator-iOS/pull/12
 
 # TODO
 - aschuch/StatefulViewController.git
