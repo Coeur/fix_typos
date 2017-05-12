@@ -9,7 +9,6 @@ Want to have a pull request for your repo? Just add it to the list!
 - Alamofire/AlamofireNetworkActivityIndicator https://github.com/Alamofire/AlamofireNetworkActivityIndicator/pull/25
 - tldr-pages/tldr https://github.com/tldr-pages/tldr/pull/1374
 - ashleymills/Reachability.swift https://github.com/ashleymills/Reachability.swift/pull/199
-- johnsundell/unbox https://github.com/JohnSundell/Unbox/pull/182
 - Quick/Nimble https://github.com/Quick/Nimble/pull/426
 - Swinject/SwinjectStoryboard https://github.com/Swinject/SwinjectStoryboard/pull/53
 - Swinject/SwinjectPropertyLoader https://github.com/Swinject/SwinjectPropertyLoader/pull/13
@@ -17,7 +16,7 @@ Want to have a pull request for your repo? Just add it to the list!
 - carloe/LicenseGenerator-iOS https://github.com/carloe/LicenseGenerator-iOS/pull/12
 
 # PR merged
-- none
+- johnsundell/unbox https://github.com/JohnSundell/Unbox/pull/182
 
 # TODO
 - aschuch/StatefulViewController.git
