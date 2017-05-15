@@ -16,7 +16,7 @@ Want to have a pull request for your repo? Just add it to the list!
 # PR merged
 - johnsundell/unbox https://github.com/JohnSundell/Unbox/pull/182
 - carloe/LicenseGenerator-iOS https://github.com/carloe/LicenseGenerator-iOS/pull/12
-- [![Pull Request for Status for tldr-pages/tldr](https://github-shields.com/github/tldr-pages/tldr/pull/1374)](https://github.com/tldr-pages/tldr/pull/1374)
+- [![Pull Request for Status for tldr-pages/tldr](https://github-shields.com/github/tldr-pages/tldr/pull/1374.svg)](https://github.com/tldr-pages/tldr/pull/1374)
 
 # TODO
 - aschuch/StatefulViewController.git
