@@ -5,7 +5,7 @@ Want to have a pull request for your repo? Just add it to the list!
 
 # PR on the way
 - Alamofire/AlamofireImage https://github.com/Alamofire/AlamofireImage/pull/259
-- Alamofire/Alamofire [![Pull Request for Status for Alamofire/Alamofire](https://github-shields.com/github/Alamofire/Alamofire/pull/2104.svg)](https://github.com/Alamofire/Alamofire/pull/2104)
+- [![Pull Request for Status for Alamofire/Alamofire](https://github-shields.com/github/Alamofire/Alamofire/pull/2104.svg)](https://github.com/Alamofire/Alamofire/pull/2104)
 - Alamofire/AlamofireNetworkActivityIndicator https://github.com/Alamofire/AlamofireNetworkActivityIndicator/pull/25
 - ashleymills/Reachability.swift https://github.com/ashleymills/Reachability.swift/pull/199
 - Quick/Nimble https://github.com/Quick/Nimble/pull/426
@@ -16,7 +16,7 @@ Want to have a pull request for your repo? Just add it to the list!
 # PR merged
 - johnsundell/unbox https://github.com/JohnSundell/Unbox/pull/182
 - carloe/LicenseGenerator-iOS https://github.com/carloe/LicenseGenerator-iOS/pull/12
-- tldr-pages/tldr https://github.com/tldr-pages/tldr/pull/1374
+- [![Pull Request for Status for tldr-pages/tldr](https://github-shields.com/github/tldr-pages/tldr/pull/1374)](https://github.com/tldr-pages/tldr/pull/1374)
 
 # TODO
 - aschuch/StatefulViewController.git
