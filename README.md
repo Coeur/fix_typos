@@ -5,7 +5,7 @@ Want to have a pull request for your repo? Just add it to the list!
 
 # PR on the way
 - Alamofire/AlamofireImage https://github.com/Alamofire/AlamofireImage/pull/259
-- Alamofire/Alamofire https://github.com/Alamofire/Alamofire/pull/2104
+- Alamofire/Alamofire [![Pull Request for Status for Alamofire/Alamofire](https://github-shields.com/github/Alamofire/Alamofire/pull/2104)](https://github.com/Alamofire/Alamofire/pull/2104)
 - Alamofire/AlamofireNetworkActivityIndicator https://github.com/Alamofire/AlamofireNetworkActivityIndicator/pull/25
 - tldr-pages/tldr https://github.com/tldr-pages/tldr/pull/1374
 - ashleymills/Reachability.swift https://github.com/ashleymills/Reachability.swift/pull/199
