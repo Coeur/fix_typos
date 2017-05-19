@@ -6,9 +6,19 @@ A Campaign that has the target to run the https://github.com/client9/misspell sp
 
 Want to have a pull request for your repo? Just add it to the list!
 
-
-<% for @section in @data["sections"] %>
-<%= "## " + @section["title"] %>
-<% for @repos in @section["repos"] %><%= "* [#{@repos["name"]}](https://github.com/#{@repos["name"]})" %>
+<%= "## Todos" %>
+<% for @repos in @data["todo"] %><%= "* [#{@repos["name"]}](https://github.com/#{@repos["name"]})" %>
 <% end %>
+
+<%= "## Open" %>
+<% for @repos in @data["open"] %><%= "* [#{@repos["name"]}](https://github.com/#{@repos["name"]})" %>
+<% end %>
+
+<%= "## Merged" %>
+<% for @repos in @data["merged"] %><%= "* [#{@repos["name"]}](https://github.com/#{@repos["name"]})" %>
+<% end %>
+
+
+<%= "## Nothing to do" %>
+<% for @repos in @data["notodo"] %><%= "* [#{@repos["name"]}](https://github.com/#{@repos["name"]})" %>
 <% end %>

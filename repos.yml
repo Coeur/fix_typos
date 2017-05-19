@@ -1,69 +1,64 @@
 ---
-sections:
-  - title: to do
-    repos:
-      - name: aschuch/StatefulViewController.git
-        branch:
-      - name: DaveWoodCom/XCGLogger
-        branch:
-      - name: Moya/Moya
-        branch:
-      - name: Swinject/Swinject
-        branch:
-      - name: Swinject/Swinject-CodeGeneration
-        branch:
-      - name: ReactiveX/RxSwift
-        branch:
-      - name: RxSwiftCommunity/RxDataSources
-        branch:
-      - name: RxSwiftCommunity/RxOptional
-        branch:
-      - name: PureLayout/PureLayout
-        branch:
-  - title: open
-    repos:
-      - name: Alamofire/AlamofireImage
-        branch:
-        pr: 259
-      - name: Alamofire/Alamofire
-        branch:
-        pr: 2104
-      - name: Alamofire/AlamofireNetworkActivityIndicator
-        branch:
-        pr: 25
-      - name: ashleymills/Reachability.swift
-        branch:
-        pr: 199
-      - name: Quick/Nimble
-        branch:
-        pr: 426
-      - name: Swinject/SwinjectStoryboard
-        branch:
-        pr: 53
-      - name: Swinject/SwinjectPropertyLoader
-        branch:
-        pr: 13
-      - name: Swinject/SwinjectAutoregistration
-        branch:
-        pr: 23
-  - title: merged
-    repos:
-      - name: johnsundell/unbox
-        branch:
-        pr: 182
-      - name: carloe/LicenseGenerator-iOS
-        branch:
-        pr: 12
-      - name: tldr-pages/tldr
-        branch:
-        pr: 1374
-  - title: nothing todo
-    repos:
-      - name: johnsundell/wrap
-        branch:
-      - name: tomquist/Equals
-        branch:
-      - name: shinydevelopment/SimulatorStatusMagic
-        branch:
-      - name: mpinkston/Timberjack
-        branch:
+todo:
+  - name: aschuch/StatefulViewController.git
+    branch:
+  - name: DaveWoodCom/XCGLogger
+    branch:
+  - name: Moya/Moya
+    branch:
+  - name: Swinject/Swinject
+    branch:
+  - name: Swinject/Swinject-CodeGeneration
+    branch:
+  - name: ReactiveX/RxSwift
+    branch:
+  - name: RxSwiftCommunity/RxDataSources
+    branch:
+  - name: RxSwiftCommunity/RxOptional
+    branch:
+  - name: PureLayout/PureLayout
+    branch:
+open:
+  - name: Alamofire/AlamofireImage
+    branch:
+    pr: 259
+  - name: Alamofire/Alamofire
+    branch:
+    pr: 2104
+  - name: Alamofire/AlamofireNetworkActivityIndicator
+    branch:
+    pr: 25
+  - name: ashleymills/Reachability.swift
+    branch:
+    pr: 199
+  - name: Quick/Nimble
+    branch:
+    pr: 426
+  - name: Swinject/SwinjectStoryboard
+    branch:
+    pr: 53
+  - name: Swinject/SwinjectPropertyLoader
+    branch:
+    pr: 13
+  - name: Swinject/SwinjectAutoregistration
+    branch:
+    pr: 23
+merged:
+  - name: johnsundell/unbox
+    branch:
+    pr: 182
+  - name: carloe/LicenseGenerator-iOS
+    branch:
+    pr: 12
+  - name: tldr-pages/tldr
+    branch:
+    pr: 1374
+notodo:
+  - name: johnsundell/wrap
+    branch:
+  - name: tomquist/Equals
+    branch:
+  - name: shinydevelopment/SimulatorStatusMagic
+    branch:
+  - name: mpinkston/Timberjack
+    branch:
