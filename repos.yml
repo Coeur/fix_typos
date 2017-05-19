@@ -40,6 +40,9 @@ open:
   - name: simplabs/ember-simple-auth
     branch:
     pr: 1346
+  - name: jquery/jquery
+    branch:
+    pr: 3671
 merged:
   - name: Quick/Nimble
     branch:
