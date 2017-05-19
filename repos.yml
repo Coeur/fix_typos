@@ -46,6 +46,9 @@ open:
   - name: angular/angular
     branch:
     pr: 16903
+  - name: facebook/react
+    branch:
+    pr: 9725
 merged:
   - name: Quick/Nimble
     branch:
