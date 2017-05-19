@@ -11,13 +11,12 @@ Want to have a pull request for your repo? Just add it to the list!
 <% end %>
 
 <%= "## Open" %>
-<% for @repos in @data["open"] %><%= "* [#{@repos["name"]}](https://github.com/#{@repos["name"]})" %>
+<% for @repos in @data["open"] %><%= "* [![Pull Request for #{@repos["name"]}](https://github-shields.com/github/#{@repos["name"]}/pull/#{@repos["pr"]}.svg)](https://github.com/#{@repos["name"]}/pull/#{@repos["pr"]})" %>
 <% end %>
 
 <%= "## Merged" %>
-<% for @repos in @data["merged"] %><%= "* [#{@repos["name"]}](https://github.com/#{@repos["name"]})" %>
+<% for @repos in @data["merged"] %><%= "* [![Pull Request for #{@repos["name"]}](https://github-shields.com/github/#{@repos["name"]}/pull/#{@repos["pr"]}.svg)](https://github.com/#{@repos["name"]}/pull/#{@repos["pr"]})" %>
 <% end %>
-
 
 <%= "## Nothing to do" %>
 <% for @repos in @data["notodo"] %><%= "* [#{@repos["name"]}](https://github.com/#{@repos["name"]})" %>
