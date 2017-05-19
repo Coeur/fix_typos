@@ -31,6 +31,15 @@ open:
   - name: ashleymills/Reachability.swift
     branch:
     pr: 199
+  - name: emberjs/ember.js
+    branch:
+    pr: 15257
+  - name: emberjs/guides
+    branch:
+    pr: 1945
+  - name: simplabs/ember-simple-auth
+    branch:
+    pr: 1346
 merged:
   - name: Quick/Nimble
     branch:
