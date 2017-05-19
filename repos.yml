@@ -31,6 +31,7 @@ open:
   - name: ashleymills/Reachability.swift
     branch:
     pr: 199
+merged:
   - name: Quick/Nimble
     branch:
     pr: 426
@@ -43,7 +44,6 @@ open:
   - name: Swinject/SwinjectAutoregistration
     branch:
     pr: 23
-merged:
   - name: johnsundell/unbox
     branch:
     pr: 182
