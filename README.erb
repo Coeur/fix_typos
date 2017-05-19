@@ -1,0 +1,14 @@
+<% require "YAML" %>
+<% @data = YAML::load(File.open("repos.yml")) %>
+
+#fix_typos
+A Campaign that has the target to run the https://github.com/client9/misspell spelling checker on as many - but not only - iOS related repositories
+
+Want to have a pull request for your repo? Just add it to the list!
+
+
+<% for @section in @data["sections"] %>
+<%= "## " + @section["title"] %>
+<% for @repos in @section["repos"] %><%= "* [#{@repos["name"]}](https://github.com/#{@repos["name"]})" %>
+<% end %>
+<% end %>
