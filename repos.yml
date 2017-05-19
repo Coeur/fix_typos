@@ -46,6 +46,9 @@ open:
   - name: facebook/react
     branch:
     pr: 9725
+  - name: ember-animation/liquid-fire
+    branch:
+    pr: 575
 merged:
   - name: Quick/Nimble
     branch:

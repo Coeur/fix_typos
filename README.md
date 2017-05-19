@@ -28,6 +28,7 @@ Want to have a pull request for your repo? Just add it to the list!
 * [![Pull Request for jquery/jquery](https://github-shields.com/github/jquery/jquery/pull/3671.svg)](https://github.com/jquery/jquery/pull/3671)
 * [![Pull Request for angular/angular](https://github-shields.com/github/angular/angular/pull/16903.svg)](https://github.com/angular/angular/pull/16903)
 * [![Pull Request for facebook/react](https://github-shields.com/github/facebook/react/pull/9725.svg)](https://github.com/facebook/react/pull/9725)
+* [![Pull Request for ember-animation/liquid-fire](https://github-shields.com/github/ember-animation/liquid-fire/pull/575.svg)](https://github.com/ember-animation/liquid-fire/pull/575)
 
 
 ## Merged
