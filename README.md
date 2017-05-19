@@ -27,6 +27,7 @@ Want to have a pull request for your repo? Just add it to the list!
 * [![Pull Request for emberjs/guides](https://github-shields.com/github/emberjs/guides/pull/1945.svg)](https://github.com/emberjs/guides/pull/1945)
 * [![Pull Request for simplabs/ember-simple-auth](https://github-shields.com/github/simplabs/ember-simple-auth/pull/1346.svg)](https://github.com/simplabs/ember-simple-auth/pull/1346)
 * [![Pull Request for jquery/jquery](https://github-shields.com/github/jquery/jquery/pull/3671.svg)](https://github.com/jquery/jquery/pull/3671)
+* [![Pull Request for angular/angular](https://github-shields.com/github/angular/angular/pull/16903.svg)](https://github.com/angular/angular/pull/16903)
 
 
 ## Merged

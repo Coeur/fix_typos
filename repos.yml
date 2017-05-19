@@ -43,6 +43,9 @@ open:
   - name: jquery/jquery
     branch:
     pr: 3671
+  - name: angular/angular
+    branch:
+    pr: 16903
 merged:
   - name: Quick/Nimble
     branch:
