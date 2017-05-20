@@ -49,6 +49,9 @@ open:
   - name: ember-animation/liquid-fire
     branch:
     pr: 575
+  - name: tensorflow/tensorflow
+    branch:
+    pr: 10057
 merged:
   - name: Quick/Nimble
     branch:
@@ -74,9 +77,6 @@ merged:
   - name: simplabs/ember-simple-auth
     branch:
     pr: 1346
-  - name: tensorflow/tensorflow
-    branch:
-    pr: 10057
 notodo:
   - name: johnsundell/wrap
     branch:

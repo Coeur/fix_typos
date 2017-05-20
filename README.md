@@ -29,6 +29,7 @@ Want to have a pull request for your repo? Just add it to the list!
 * [![Pull Request for angular/angular](https://github-shields.com/github/angular/angular/pull/16903.svg)](https://github.com/angular/angular/pull/16903)
 * [![Pull Request for facebook/react](https://github-shields.com/github/facebook/react/pull/9725.svg)](https://github.com/facebook/react/pull/9725)
 * [![Pull Request for ember-animation/liquid-fire](https://github-shields.com/github/ember-animation/liquid-fire/pull/575.svg)](https://github.com/ember-animation/liquid-fire/pull/575)
+* [![Pull Request for tensorflow/tensorflow](https://github-shields.com/github/tensorflow/tensorflow/pull/10057.svg)](https://github.com/tensorflow/tensorflow/pull/10057)
 
 
 ## Merged
@@ -40,7 +41,6 @@ Want to have a pull request for your repo? Just add it to the list!
 * [![Pull Request for carloe/LicenseGenerator-iOS](https://github-shields.com/github/carloe/LicenseGenerator-iOS/pull/12.svg)](https://github.com/carloe/LicenseGenerator-iOS/pull/12)
 * [![Pull Request for tldr-pages/tldr](https://github-shields.com/github/tldr-pages/tldr/pull/1374.svg)](https://github.com/tldr-pages/tldr/pull/1374)
 * [![Pull Request for simplabs/ember-simple-auth](https://github-shields.com/github/simplabs/ember-simple-auth/pull/1346.svg)](https://github.com/simplabs/ember-simple-auth/pull/1346)
-* [![Pull Request for tensorflow/tensorflow](https://github-shields.com/github/tensorflow/tensorflow/pull/10057.svg)](https://github.com/tensorflow/tensorflow/pull/10057)
 
 
 ## Nothing to do
