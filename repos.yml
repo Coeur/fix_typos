@@ -58,6 +58,9 @@ open:
   - name: ember-cli/ember-cli
     branch:
     pr: 7056
+  - name: moby/moby
+    branch:
+    pr: 33312
 merged:
   - name: Quick/Nimble
     branch:
