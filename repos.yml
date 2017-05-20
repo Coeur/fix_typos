@@ -19,9 +19,6 @@ open:
   - name: Alamofire/AlamofireImage
     branch:
     pr: 259
-  - name: Alamofire/Alamofire
-    branch:
-    pr: 2104
   - name: Alamofire/AlamofireNetworkActivityIndicator
     branch:
     pr: 25
@@ -31,9 +28,6 @@ open:
   - name: emberjs/ember.js
     branch:
     pr: 15257
-  - name: emberjs/guides
-    branch:
-    pr: 1945
   - name: jquery/jquery
     branch:
     pr: 3671
@@ -62,9 +56,15 @@ open:
     branch:
     pr: 4012
 merged:
+  - name: Alamofire/Alamofire
+    branch:
+    pr: 2104
   - name: Quick/Nimble
     branch:
     pr: 426
+  - name: emberjs/guides
+    branch:
+    pr: 1945
   - name: Swinject/SwinjectStoryboard
     branch:
     pr: 53
