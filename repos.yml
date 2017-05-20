@@ -55,6 +55,9 @@ open:
   - name: vuejs/vuejs.org
     branch:
     pr: 916
+  - name: ember-cli/ember-cli
+    branch:
+    pr: 7056
 merged:
   - name: Quick/Nimble
     branch:
