@@ -40,6 +40,7 @@ Want to have a pull request for your repo? Just add it to the list!
 * [![Pull Request for carloe/LicenseGenerator-iOS](https://github-shields.com/github/carloe/LicenseGenerator-iOS/pull/12.svg)](https://github.com/carloe/LicenseGenerator-iOS/pull/12)
 * [![Pull Request for tldr-pages/tldr](https://github-shields.com/github/tldr-pages/tldr/pull/1374.svg)](https://github.com/tldr-pages/tldr/pull/1374)
 * [![Pull Request for simplabs/ember-simple-auth](https://github-shields.com/github/simplabs/ember-simple-auth/pull/1346.svg)](https://github.com/simplabs/ember-simple-auth/pull/1346)
+* [![Pull Request for tensorflow/tensorflow](https://github-shields.com/github/tensorflow/tensorflow/pull/10057.svg)](https://github.com/tensorflow/tensorflow/pull/10057)
 
 
 ## Nothing to do
