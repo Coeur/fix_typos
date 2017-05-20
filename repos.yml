@@ -1,23 +1,6 @@
 ---
 todo:
-  - name: aschuch/StatefulViewController.git
-    branch:
-  - name: DaveWoodCom/XCGLogger
-    branch:
-  - name: Moya/Moya
-    branch:
-  - name: Swinject/Swinject
-    branch:
-  - name: Swinject/Swinject-CodeGeneration
-    branch:
-  - name: ReactiveX/RxSwift
-    branch:
-  - name: RxSwiftCommunity/RxDataSources
-    branch:
-  - name: RxSwiftCommunity/RxOptional
-    branch:
-  - name: PureLayout/PureLayout
-    branch:
+  - name: AddTodos
 open:
   - name: Alamofire/AlamofireImage
     branch:
@@ -89,6 +72,28 @@ merged:
   - name: simplabs/ember-simple-auth
     branch:
     pr: 1346
+  - name: aschuch/StatefulViewController
+    branch:
+    pr: 56
+  - name: DaveWoodCom/XCGLogger
+    branch:
+    pr: 212
+  - name: Moya/Moya
+    branch:
+  - name: Swinject/Swinject
+    branch:
+    pr: 255
+  - name: Swinject/Swinject-CodeGeneration
+    branch:
+  - name: ReactiveX/RxSwift
+    branch:
+    pr: 1265
+  - name: RxSwiftCommunity/RxOptional
+    branch:
+    pr: 45
+  - name: PureLayout/PureLayout
+    branch:
+    pr: 189
 notodo:
   - name: johnsundell/wrap
     branch:
@@ -97,4 +102,6 @@ notodo:
   - name: shinydevelopment/SimulatorStatusMagic
     branch:
   - name: mpinkston/Timberjack
+    branch:
+  - name: RxSwiftCommunity/RxDataSources
     branch:

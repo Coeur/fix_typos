@@ -7,15 +7,7 @@ A Campaign that has the target to run the https://github.com/client9/misspell sp
 Want to have a pull request for your repo? Just add it to the list!
 
 ## Todos
-* [aschuch/StatefulViewController.git](https://github.com/aschuch/StatefulViewController.git)
-* [DaveWoodCom/XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
-* [Moya/Moya](https://github.com/Moya/Moya)
-* [Swinject/Swinject](https://github.com/Swinject/Swinject)
-* [Swinject/Swinject-CodeGeneration](https://github.com/Swinject/Swinject-CodeGeneration)
-* [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)
-* [RxSwiftCommunity/RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources)
-* [RxSwiftCommunity/RxOptional](https://github.com/RxSwiftCommunity/RxOptional)
-* [PureLayout/PureLayout](https://github.com/PureLayout/PureLayout)
+* [AddTodos](https://github.com/AddTodos)
 
 
 ## Open
@@ -45,6 +37,14 @@ Want to have a pull request for your repo? Just add it to the list!
 * [![Pull Request for carloe/LicenseGenerator-iOS](https://github-shields.com/github/carloe/LicenseGenerator-iOS/pull/12.svg)](https://github.com/carloe/LicenseGenerator-iOS/pull/12)
 * [![Pull Request for tldr-pages/tldr](https://github-shields.com/github/tldr-pages/tldr/pull/1374.svg)](https://github.com/tldr-pages/tldr/pull/1374)
 * [![Pull Request for simplabs/ember-simple-auth](https://github-shields.com/github/simplabs/ember-simple-auth/pull/1346.svg)](https://github.com/simplabs/ember-simple-auth/pull/1346)
+* [![Pull Request for aschuch/StatefulViewController](https://github-shields.com/github/aschuch/StatefulViewController/pull/56.svg)](https://github.com/aschuch/StatefulViewController/pull/56)
+* [![Pull Request for DaveWoodCom/XCGLogger](https://github-shields.com/github/DaveWoodCom/XCGLogger/pull/212.svg)](https://github.com/DaveWoodCom/XCGLogger/pull/212)
+* [![Pull Request for Moya/Moya](https://github-shields.com/github/Moya/Moya/pull/.svg)](https://github.com/Moya/Moya/pull/)
+* [![Pull Request for Swinject/Swinject](https://github-shields.com/github/Swinject/Swinject/pull/255.svg)](https://github.com/Swinject/Swinject/pull/255)
+* [![Pull Request for Swinject/Swinject-CodeGeneration](https://github-shields.com/github/Swinject/Swinject-CodeGeneration/pull/.svg)](https://github.com/Swinject/Swinject-CodeGeneration/pull/)
+* [![Pull Request for ReactiveX/RxSwift](https://github-shields.com/github/ReactiveX/RxSwift/pull/1265.svg)](https://github.com/ReactiveX/RxSwift/pull/1265)
+* [![Pull Request for RxSwiftCommunity/RxOptional](https://github-shields.com/github/RxSwiftCommunity/RxOptional/pull/45.svg)](https://github.com/RxSwiftCommunity/RxOptional/pull/45)
+* [![Pull Request for PureLayout/PureLayout](https://github-shields.com/github/PureLayout/PureLayout/pull/189.svg)](https://github.com/PureLayout/PureLayout/pull/189)
 
 
 ## Nothing to do
@@ -52,4 +52,5 @@ Want to have a pull request for your repo? Just add it to the list!
 * [tomquist/Equals](https://github.com/tomquist/Equals)
 * [shinydevelopment/SimulatorStatusMagic](https://github.com/shinydevelopment/SimulatorStatusMagic)
 * [mpinkston/Timberjack](https://github.com/mpinkston/Timberjack)
+* [RxSwiftCommunity/RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources)
 
