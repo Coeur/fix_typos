@@ -43,6 +43,9 @@ open:
   - name: moby/moby
     branch:
     pr: 33312
+  - name: antirez/redis
+    branch:
+    pr: 4012
 merged:
   - name: Quick/Nimble
     branch:

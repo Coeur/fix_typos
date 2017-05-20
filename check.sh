@@ -17,4 +17,8 @@ if [ $# -eq 0 ] ; then
 fi
 
 
-git clone git@github.com:fixTypos/$1.git ../$1 && cd ../$1 && git branch fix_typos && git checkout fix_typos && misspell -w -locale US .
+git clone git@github.com:fixTypos/$1.git ../$1 -b develop ||
+  git clone git@github.com:fixTypos/$1.git ../$1 -b dev ||
+  git clone git@github.com:fixTypos/$1.git ../$1 ;
+
+cd ../$1 && git branch fix_typos && git checkout fix_typos && misspell -w -locale US .
