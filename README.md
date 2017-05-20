@@ -30,6 +30,7 @@ Want to have a pull request for your repo? Just add it to the list!
 * [![Pull Request for facebook/react](https://github-shields.com/github/facebook/react/pull/9725.svg)](https://github.com/facebook/react/pull/9725)
 * [![Pull Request for ember-animation/liquid-fire](https://github-shields.com/github/ember-animation/liquid-fire/pull/575.svg)](https://github.com/ember-animation/liquid-fire/pull/575)
 * [![Pull Request for tensorflow/tensorflow](https://github-shields.com/github/tensorflow/tensorflow/pull/10057.svg)](https://github.com/tensorflow/tensorflow/pull/10057)
+* [![Pull Request for vuejs/vuejs.org](https://github-shields.com/github/vuejs/vuejs.org/pull/916.svg)](https://github.com/vuejs/vuejs.org/pull/916)
 
 
 ## Merged

@@ -52,6 +52,9 @@ open:
   - name: tensorflow/tensorflow
     branch:
     pr: 10057
+  - name: vuejs/vuejs.org
+    branch:
+    pr: 916
 merged:
   - name: Quick/Nimble
     branch:
