@@ -1,6 +1,20 @@
 ---
 todo:
-  - name: AddTodos
+  - name: AgileBits/onepassword-extension
+  - name: kishikawakatsumi/KeychainAccess
+  - name: marketplacer/Cosmos
+  - name: p2/OAuth2
+  - name: mxcl/PromiseKit
+  - name: hackiftekhar/IQKeyboardManager
+  - name: MMRecord/Core
+  - name: jdg/MBProgressHUD
+  - name: magicalpanda/MagicalRecord
+  - name: nxtbgthng/OAuth2Client
+  - name: SwiftyJSON/SwiftyJSON
+  - name: SwiftyJSON/Alamofire-SwiftyJSON
+  - name: thoughtbot/Argo
+  - name: thoughtbot/Curry
+  - name: nicklockwood/iRate
 open:
   - name: Alamofire/AlamofireImage
     branch:
