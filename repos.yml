@@ -7,16 +7,12 @@ todo:
   - name: SwiftyJSON/Alamofire-SwiftyJSON
   - name: thoughtbot/Curry
 open:
-  - name: hackiftekhar/IQKeyboardManager
-    pr: 856
   - name: jdg/MBProgressHUD
     pr: 476
   - name: magicalpanda/MagicalRecord
     pr: 1305
   - name: p2/OAuth2
     pr: 199
-  - name: mxcl/PromiseKit
-    pr: 666
   - name: thoughtbot/Argo
     pr: 463
   - name: nicklockwood/iRate
@@ -45,9 +41,19 @@ open:
     pr: 33312
   - name: antirez/redis
     pr: 4012
+  - name: aschuch/StatefulViewController
+    pr: 56
+  - name: DaveWoodCom/XCGLogger
+    pr: 212
+  - name: Swinject/Swinject
+    pr: 255
+merged:
   - name: Moya/Moya
     pr: 1091
-merged:
+  - name: mxcl/PromiseKit
+    pr: 666
+  - name: hackiftekhar/IQKeyboardManager
+    pr: 856
   - name: vuejs/vuejs.org
     pr: 916
   - name: Alamofire/Alamofire
@@ -70,12 +76,6 @@ merged:
     pr: 1374
   - name: simplabs/ember-simple-auth
     pr: 1346
-  - name: aschuch/StatefulViewController
-    pr: 56
-  - name: DaveWoodCom/XCGLogger
-    pr: 212
-  - name: Swinject/Swinject
-    pr: 255
   - name: ReactiveX/RxSwift
     pr: 1265
   - name: RxSwiftCommunity/RxOptional
