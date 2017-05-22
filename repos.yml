@@ -33,10 +33,6 @@ open:
     pr: 9725
   - name: ember-animation/liquid-fire
     pr: 575
-  - name: tensorflow/tensorflow
-    pr: 10057
-  - name: ember-cli/ember-cli
-    pr: 7056
   - name: moby/moby
     pr: 33312
   - name: antirez/redis
@@ -48,6 +44,10 @@ open:
   - name: Swinject/Swinject
     pr: 255
 merged:
+  - name: tensorflow/tensorflow
+    pr: 10057
+  - name: ember-cli/ember-cli
+    pr: 7056
   - name: Moya/Moya
     pr: 1091
   - name: mxcl/PromiseKit

@@ -29,8 +29,6 @@ Want to have a pull request for your repo? Just add it to the list!
 * [![Pull Request for angular/angular](https://github-shields.com/github/angular/angular/pull/16903.svg)](https://github.com/angular/angular/pull/16903)
 * [![Pull Request for facebook/react](https://github-shields.com/github/facebook/react/pull/9725.svg)](https://github.com/facebook/react/pull/9725)
 * [![Pull Request for ember-animation/liquid-fire](https://github-shields.com/github/ember-animation/liquid-fire/pull/575.svg)](https://github.com/ember-animation/liquid-fire/pull/575)
-* [![Pull Request for tensorflow/tensorflow](https://github-shields.com/github/tensorflow/tensorflow/pull/10057.svg)](https://github.com/tensorflow/tensorflow/pull/10057)
-* [![Pull Request for ember-cli/ember-cli](https://github-shields.com/github/ember-cli/ember-cli/pull/7056.svg)](https://github.com/ember-cli/ember-cli/pull/7056)
 * [![Pull Request for moby/moby](https://github-shields.com/github/moby/moby/pull/33312.svg)](https://github.com/moby/moby/pull/33312)
 * [![Pull Request for antirez/redis](https://github-shields.com/github/antirez/redis/pull/4012.svg)](https://github.com/antirez/redis/pull/4012)
 * [![Pull Request for aschuch/StatefulViewController](https://github-shields.com/github/aschuch/StatefulViewController/pull/56.svg)](https://github.com/aschuch/StatefulViewController/pull/56)
@@ -39,6 +37,8 @@ Want to have a pull request for your repo? Just add it to the list!
 
 
 ## Merged
+* [![Pull Request for tensorflow/tensorflow](https://github-shields.com/github/tensorflow/tensorflow/pull/10057.svg)](https://github.com/tensorflow/tensorflow/pull/10057)
+* [![Pull Request for ember-cli/ember-cli](https://github-shields.com/github/ember-cli/ember-cli/pull/7056.svg)](https://github.com/ember-cli/ember-cli/pull/7056)
 * [![Pull Request for Moya/Moya](https://github-shields.com/github/Moya/Moya/pull/1091.svg)](https://github.com/Moya/Moya/pull/1091)
 * [![Pull Request for mxcl/PromiseKit](https://github-shields.com/github/mxcl/PromiseKit/pull/666.svg)](https://github.com/mxcl/PromiseKit/pull/666)
 * [![Pull Request for hackiftekhar/IQKeyboardManager](https://github-shields.com/github/hackiftekhar/IQKeyboardManager/pull/856.svg)](https://github.com/hackiftekhar/IQKeyboardManager/pull/856)
