@@ -1,107 +1,94 @@
 ---
 todo:
-  - name: AddTodos
+  - name: AgileBits/onepassword-extension
+  - name: MMRecord/Core
+  - name: nxtbgthng/OAuth2Client
+  - name: SwiftyJSON/SwiftyJSON
+  - name: SwiftyJSON/Alamofire-SwiftyJSON
+  - name: thoughtbot/Curry
 open:
+  - name: jdg/MBProgressHUD
+    pr: 476
+  - name: magicalpanda/MagicalRecord
+    pr: 1305
+  - name: p2/OAuth2
+    pr: 199
+  - name: thoughtbot/Argo
+    pr: 463
+  - name: nicklockwood/iRate
+    pr: 290
   - name: Alamofire/AlamofireImage
-    branch:
     pr: 259
   - name: Alamofire/AlamofireNetworkActivityIndicator
-    branch:
     pr: 25
   - name: ashleymills/Reachability.swift
-    branch:
     pr: 199
   - name: emberjs/ember.js
-    branch:
     pr: 15257
   - name: jquery/jquery
-    branch:
     pr: 3671
   - name: angular/angular
-    branch:
     pr: 16903
   - name: facebook/react
-    branch:
     pr: 9725
   - name: ember-animation/liquid-fire
-    branch:
     pr: 575
+  - name: tensorflow/tensorflow
+    pr: 10057
+  - name: ember-cli/ember-cli
+    pr: 7056
   - name: moby/moby
-    branch:
     pr: 33312
   - name: antirez/redis
-    branch:
     pr: 4012
-merged:
-  - name: ember-cli/ember-cli
-    branch:
-    pr: 7056
-  - name: tensorflow/tensorflow
-    branch:
-    pr: 10057
-  - name: Alamofire/Alamofire
-    branch:
-    pr: 2104
-  - name: Quick/Nimble
-    branch:
-    pr: 426
-  - name: emberjs/guides
-    branch:
-    pr: 1945
-  - name: Swinject/SwinjectStoryboard
-    branch:
-    pr: 53
-  - name: Swinject/SwinjectPropertyLoader
-    branch:
-    pr: 13
-  - name: Swinject/SwinjectAutoregistration
-    branch:
-    pr: 23
-  - name: johnsundell/unbox
-    branch:
-    pr: 182
-  - name: carloe/LicenseGenerator-iOS
-    branch:
-    pr: 12
-  - name: tldr-pages/tldr
-    branch:
-    pr: 1374
-  - name: simplabs/ember-simple-auth
-    branch:
-    pr: 1346
   - name: aschuch/StatefulViewController
-    branch:
     pr: 56
   - name: DaveWoodCom/XCGLogger
-    branch:
     pr: 212
-  - name: Moya/Moya
-    branch:
   - name: Swinject/Swinject
-    branch:
     pr: 255
-  - name: Swinject/Swinject-CodeGeneration
-    branch:
+merged:
+  - name: Moya/Moya
+    pr: 1091
+  - name: mxcl/PromiseKit
+    pr: 666
+  - name: hackiftekhar/IQKeyboardManager
+    pr: 856
+  - name: vuejs/vuejs.org
+    pr: 916
+  - name: Alamofire/Alamofire
+    pr: 2104
+  - name: Quick/Nimble
+    pr: 426
+  - name: emberjs/guides
+    pr: 1945
+  - name: Swinject/SwinjectStoryboard
+    pr: 53
+  - name: Swinject/SwinjectPropertyLoader
+    pr: 13
+  - name: Swinject/SwinjectAutoregistration
+    pr: 23
+  - name: johnsundell/unbox
+    pr: 182
+  - name: carloe/LicenseGenerator-iOS
+    pr: 12
+  - name: tldr-pages/tldr
+    pr: 1374
+  - name: simplabs/ember-simple-auth
+    pr: 1346
   - name: ReactiveX/RxSwift
-    branch:
     pr: 1265
   - name: RxSwiftCommunity/RxOptional
-    branch:
     pr: 45
   - name: PureLayout/PureLayout
-    branch:
     pr: 189
-  - name: vuejs/vuejs.org
-    branch:
-    pr: 916
+  - name: Swinject/Swinject-CodeGen
+    pr: 70
 notodo:
   - name: johnsundell/wrap
-    branch:
   - name: tomquist/Equals
-    branch:
   - name: shinydevelopment/SimulatorStatusMagic
-    branch:
   - name: mpinkston/Timberjack
-    branch:
   - name: RxSwiftCommunity/RxDataSources
-    branch:
+  - name: marketplacer/Cosmos
+  - name: kishikawakatsumi/KeychainAccess
