@@ -26,15 +26,6 @@ open:
   - name: ember-animation/liquid-fire
     branch:
     pr: 575
-  - name: tensorflow/tensorflow
-    branch:
-    pr: 10057
-  - name: vuejs/vuejs.org
-    branch:
-    pr: 916
-  - name: ember-cli/ember-cli
-    branch:
-    pr: 7056
   - name: moby/moby
     branch:
     pr: 33312
@@ -42,6 +33,12 @@ open:
     branch:
     pr: 4012
 merged:
+  - name: ember-cli/ember-cli
+    branch:
+    pr: 7056
+  - name: tensorflow/tensorflow
+    branch:
+    pr: 10057
   - name: Alamofire/Alamofire
     branch:
     pr: 2104
@@ -94,6 +91,9 @@ merged:
   - name: PureLayout/PureLayout
     branch:
     pr: 189
+  - name: vuejs/vuejs.org
+    branch:
+    pr: 916
 notodo:
   - name: johnsundell/wrap
     branch:
